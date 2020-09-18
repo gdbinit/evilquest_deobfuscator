@@ -1,0 +1,16 @@
+Latest EvilQuest/ThiefQuest strings decrypt/deobfuscator  
+(c) Pedro Vilaça 2020, All rights reserved.  
+reverser@put.as - https://reverse.put.as  
+
+reference: https://reverse.put.as/2020/09/17/evilquest-revisited/
+
+python implementation for previous sample(s) by Scott Knight
+https://github.com/carbonblack/tau-tools/tree/master/malware_specific/ThiefQuest
+
+It is able to decrypt a single string or a whole file.
+
+Usage:
+  -f string
+        file to decrypt all strings
+  -s string
+        string to decrypt
